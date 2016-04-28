@@ -20,3 +20,11 @@ h3>span{
     height: 300px;
     margin: 130px auto;
 }
+
+
+/*selector de etiqueta*/
+h5{
+    color: red;
+    margin: 10px;
+    text-align: center;
+}
