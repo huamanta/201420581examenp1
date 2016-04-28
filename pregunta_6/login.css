@@ -95,8 +95,13 @@ p[title*="text"]{
     font-family: monospace;
 }
 
+/*link*/
 a:link{
     color: red;
+}
+
+a:visited{
+  color:blue;
 }
 
 /*hover*/
