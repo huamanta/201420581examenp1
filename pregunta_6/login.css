@@ -94,3 +94,12 @@ p[title*="text"]{
     color: blue;
     font-family: monospace;
 }
+
+/*hover*/
+input[type="text"]:hover{
+    background: black;
+}
+
+input[type="password"]:hover{
+    background: black;
+}
