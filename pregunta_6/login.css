@@ -50,3 +50,8 @@ input{
 h6+h3{
     text-align: center;
 }
+
+/*selector atributo*/
+a[href]{
+    color: coral;
+}
