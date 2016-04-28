@@ -28,3 +28,12 @@ h5{
     margin: 10px;
     text-align: center;
 }
+
+label{
+    margin 10px;
+}
+input{
+    width: 230px;
+    margin: 10px;
+    height: 20px;
+}
