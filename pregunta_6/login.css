@@ -71,8 +71,16 @@ a[href^="http://"]{
 }
 
 
-/*selector de atributo cocomienza con*/
+/*selector de atributo termina con*/
 a[href$=".com"]{
     background: aqua;
 }
 
+a[href$=".pe"]{
+    background: blue;
+}
+
+/*selector de atributo separados por espacio*/
+p[title~="text"]{
+    text-align: center;
+}
