@@ -13,7 +13,9 @@ h3>span{
     font-family: sans-serif;
 }
 
-
+footer>h6{
+    text-align: center;
+}
 /*selector de clase*/
 .principal{
     width: 250px;
