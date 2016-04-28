@@ -12,3 +12,11 @@ h3>span{
     color: blue;
     font-family: sans-serif;
 }
+
+
+/*selector de clase*/
+.principal{
+    width: 250px;
+    height: 300px;
+    margin: 130px auto;
+}
