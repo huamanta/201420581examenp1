@@ -37,3 +37,11 @@ input{
     margin: 10px;
     height: 20px;
 }
+
+
+/*selector id*/
+#bienvenido{
+    color: black;
+    text-align: center;
+    margin: 10px;
+}
