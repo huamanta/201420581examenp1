@@ -4,3 +4,10 @@ h1~h2{
     text-align: center;
 }
 /*SELECTOR DE HERMANO ADYACENTE*/
+h4+p{
+    text-align: center;
+    color: red;
+    text-align: justify;
+    width: 800px;
+    margin: 0 auto;
+}
