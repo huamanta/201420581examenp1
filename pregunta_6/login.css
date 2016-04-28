@@ -104,6 +104,12 @@ a:visited{
   color:blue;
 }
 
+/*Active*/
+input[type="submit"]:active{
+    transform: scale(0,3);
+}
+
+
 /*hover*/
 input[type="text"]:hover{
     background: black;
