@@ -1,0 +1,4 @@
+/*selector de atributo contiene*/
+p[title*="texto"]{
+    color: blue;
+}
