@@ -2,3 +2,10 @@
 p[title*="texto"]{
     color: blue;
 }
+
+
+/*selector de atributo comienza con*/
+a[href^="http://"]{
+    text-decoration: none;
+    color: red;
+}
