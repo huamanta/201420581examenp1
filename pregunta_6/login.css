@@ -46,6 +46,7 @@ input{
     margin: 10px;
 }
 
+
 /*selector hermano adyacente*/
 h6+h3{
     text-align: center;
@@ -56,14 +57,22 @@ a[href]{
     color: coral;
 }
 
-/*selector de atributo con valor exacto*/
 
+/*selector de atributo con valor exacto*/
 a[href="registro"]{
     float: right;
     text-decoration: none;
 }
 
+
 /*selector de atributo cocomienza con*/
 a[href^="http://"]{
     text-decoration: none;
 }
+
+
+/*selector de atributo cocomienza con*/
+a[href$=".com"]{
+    background: aqua;
+}
+
