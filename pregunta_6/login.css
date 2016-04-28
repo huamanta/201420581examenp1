@@ -95,6 +95,10 @@ p[title*="text"]{
     font-family: monospace;
 }
 
+a:link{
+    color: red;
+}
+
 /*hover*/
 input[type="text"]:hover{
     background: black;
