@@ -84,3 +84,13 @@ a[href$=".pe"]{
 p[title~="text"]{
     text-align: center;
 }
+
+/*selector de atributo separados por guion*/
+p[title|="text"]{
+    text-align: center;
+}
+/*selector de atributo contiene*/
+p[title*="text"]{
+    color: blue;
+    font-family: monospace;
+}
