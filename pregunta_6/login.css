@@ -45,3 +45,8 @@ input{
     text-align: center;
     margin: 10px;
 }
+
+/*selector hermano adyacente*/
+h6+h3{
+    text-align: center;
+}
