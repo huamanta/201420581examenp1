@@ -9,3 +9,8 @@ a[href^="http://"]{
     text-decoration: none;
     color: red;
 }
+
+/*selector de atributo separado por epacio*/
+p[type~="numero"]{
+    color: aqua;
+}
