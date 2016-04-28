@@ -62,3 +62,8 @@ a[href="registro"]{
     float: right;
     text-decoration: none;
 }
+
+/*selector de atributo cocomienza con*/
+a[href^="http://"]{
+    text-decoration: none;
+}
