@@ -103,3 +103,17 @@ input[type="text"]:hover{
 input[type="password"]:hover{
     background: black;
 }
+
+
+/*focus*/
+input[type="text"]:focus{
+    background: black;
+    color: white;
+    height: 25px;
+}
+
+input[type="password"]:focus{
+    background: black;
+    color: white;
+    height: 25px;
+}
